@@ -1,2 +1,2 @@
 # AnalizaDanych
-Analiza danych statystycznych
+Przeprowadzone analizy danych statystycznych w języku Python za pomocą Jupyter Notebook.
