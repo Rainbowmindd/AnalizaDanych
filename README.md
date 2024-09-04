@@ -1,1 +1,2 @@
 # AnalizaDanych
+Analiza danych statystycznych
